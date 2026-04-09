@@ -96,12 +96,12 @@ Integración y manejo de datos:
 ## 📌 Estructura del repositorio
 ```
 /docs
-├── frontend.md
-├── python-basics.md
-├── python-advanced.md
-├── databases.md
-├── django.md
-└── django-data.md
+├── 01.fundamentos_desarrollo_frontend.md
+├── 02.fundamentos_programacion_python.md
+├── 03.programacion_avanzada_python.md
+├── 04.fundamentos_bases_de_datos_relacionales.md
+├── 05.desarrollo_aplicaciones_web_python_django.md
+└── 06.acceso_a_datos_app_python_django.md
 ```
 
 ---

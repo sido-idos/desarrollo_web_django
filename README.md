@@ -1,6 +1,8 @@
 # 🚀 Desarrollo Web Fullstack Django Python Trainee
 
-Bienvenido a este repositorio de apuntes sobre desarrollo web 📚  
+Bienvenido a este repositorio de apuntes sobre desarrollo web 📚
+
+![Django](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdatascientest.com%2Fwp-content%2Fuploads%2F2023%2F05%2Fdjango-datascientest.png&f=1&nofb=1&ipt=6e95ec82169abb328f062e9f1e237afcffa299f1bc6546cac9881afab5bffcd0)
 
 Aquí encontrarás contenidos relacionados al desarrollo de aplicaciones web utilizando el framework Django. El material esta disponible en archivos *markdown* organizados para facilitar el aprendizaje progresivo.
 
